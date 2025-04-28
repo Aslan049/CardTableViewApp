@@ -18,14 +18,13 @@ Bu proje, temel bir `UITableView` kullanımını, özel bir `UITableViewCell` ol
 - **Model**: `Card.swift`
 - **View**: `CardTableViewCell.swift`
 - **Controller**: `ViewController.swift`, `NextViewController.swift`
-- **Resources**: `LaunchScreen.storyboard`, `Assets.xcassets`
-- **Application**: `AppDelegate.swift`, `SceneDelegate.swift`
+
 
 ## Nasıl Çalıştırılır?
 
 1. Bu repository'yi bilgisayarınıza klonlayın:
     ```bash
-    git clone <repository_url>
+    git clone <[repository_url](https://github.com/Aslan049/CardTableViewApp.git)>
     ```
 2. Klonlanan dizine gidin:
     ```bash
