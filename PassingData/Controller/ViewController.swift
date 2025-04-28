@@ -19,10 +19,10 @@ class ViewController: UIViewController {
         view.addSubview(tableView)
         setTableView()
         constraintsTableView()
-        addHeros()
+        addCards()
     }
     
-    func addHeros() {
+    func addCards() {
         cards.append(Card(name: "2C Card", image: safeImage(name: "2C")))
         cards.append(Card(name: "2D Card", image: safeImage(name: "2D")))
         cards.append(Card(name: "2H Card", image: safeImage(name: "2H")))
